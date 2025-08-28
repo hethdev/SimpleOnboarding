@@ -15,7 +15,7 @@
     IT;OU=IT,DC=example,DC=local
     Finance;OU=Finance,DC=example,DC=local
 
-![Onboarding](img/SimpleOnboarding.png)
+![Onboarding](IMG/SimpleOnboarding.png)
 
 ## Features
 
